@@ -1,0 +1,17 @@
+Title: Cognitive Sampling-based Potential Driven Online Planner (CoSaP) for Autonomous Mobile Robots
+
+This algorithm and its benchmark results are part of a research paper submitted to:
+IEEE Transactions on Robotics (T-RO)
+
+Status: Submitted (under review)
+
+Authors:
+Harishma Prakash  
+Undergraduate Researcher  
+Chennai Institute of Technology, India
+
+Note:
+Due to the ongoing peer-review process, the full paper and algorithmic details (including pseudocode) are not publicly disclosed at this stage. A summarized version with results is presented here for validation and reference purposes.
+
+GitHub Repository created for verification by reviewers and evaluators only.
+
