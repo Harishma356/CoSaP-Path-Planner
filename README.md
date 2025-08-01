@@ -11,7 +11,7 @@ Affiliation: Chennai Institute of Technology, India
 
 ## 🧭 Overview
 
-**CoSaP** is a novel path planning algorithm designed to operate efficiently in **completely unknown environments**. It intelligently samples the navigation space using goal-biased heuristics, moving towards the final goal by drawing chunks of potential gradient to pave a smooth path.
+**CoSaP** is a novel path planning algorithm designed to operate efficiently in **completely unknown environments**. It intelligently samples nodes in the space using cognitive based goal-biased heuristics, deriving potential field paths for local goal opted from sampled nodes in iteration until the goal is reached.
 
 > 🚫 **Note**: The core pseudocode and implementation details are withheld due to current journal review. This repository provides validated results and context for review purposes only.
 
