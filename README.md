@@ -35,7 +35,6 @@ This repository includes:
 - 📈 Performance comparison graphs
 - 🧪 Simulation snapshots from Matplotlib-based planner
 - 🧮 Environment setups used for evaluation (grid maps)
-- 📝 Complexity analysis overview
 
 Please see the [`/benchmark_results`](./benchmark_results) folder for plots and benchmark graphs.
 
