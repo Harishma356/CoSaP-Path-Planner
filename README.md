@@ -37,7 +37,7 @@ This repository includes:
 - 🧮 Environment setups used for evaluation (grid maps)
 - 📝 Complexity analysis overview
 
-Please see the [`/results`](./results) folder for plots and benchmark graphs.
+Please see the [`/benchmark_results`](./benchmark_results) folder for plots and benchmark graphs.
 
 ---
 
