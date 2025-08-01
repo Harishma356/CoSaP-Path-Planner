@@ -51,7 +51,7 @@ You may view and share, but **not reuse or modify** the contents.
 
 ### Dataset / Benchmark Map
 
-The map used for benchmarking CoSaP were obtained from the Moving AI Lab's pathfinding benchmark suite:
+The map (map_clean.png) used for benchmarking CoSaP were obtained from the Moving AI Lab's pathfinding benchmark suite:
 
 > N. Sturtevant, “Benchmarks for grid-based pathfinding,” Moving AI Lab, [Online]. Available: [https://movingai.com/benchmarks/dao/index.html](https://movingai.com/benchmarks/dao/index.html). Accessed on: Jul. 15, 2025.
 
