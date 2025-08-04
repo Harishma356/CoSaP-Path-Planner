@@ -1,9 +1,9 @@
 # CoSaP: Cognitive Sampling-based Potential-driven Online Planner
 
-This repository accompanies the submission of the paper:
+This repository accompanies the paper submission titled
 
 **"Cognitive Sampling-based Potential-driven Online Planner (CoSaP) for Autonomous Mobile Robots"**  
-Author: Harishma Prakash  
+Author: Harishma Prakash, Abish Mariyappan, Aiswarya Ganesan, and Sugin Elankavi Rajendran  
 Affiliation: Chennai Institute of Technology, India
 
 ---
