@@ -16,8 +16,8 @@ No warranties are given. The license may not give you all of the permissions nec
 
 ---
 
-**Note:** This repository accompanies a submitted paper titled  
+**Note:** This repository accompanies the paper submission titled 
 **"Cognitive Sampling-based Potential driven online planner (CoSaP) for autonomous mobile robots"**  
-submitted to *IEEE Transactions on Robotics (T-RO)*, and is currently under review.
 
-The pseudocode, results, and benchmarks presented here are for review and reference purposes only. Redistribution or modification of the core algorithm or content is not permitted at this stage.
+
+The results and benchmarks presented here are intended solely for review and reference purposes.
