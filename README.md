@@ -3,7 +3,6 @@
 This repository accompanies the submission of the paper:
 
 **"Cognitive Sampling-based Potential-driven Online Planner (CoSaP) for Autonomous Mobile Robots"**  
-Submitted to: *IEEE Transactions on Robotics (T-RO)*  
 Author: Harishma Prakash  
 Affiliation: Chennai Institute of Technology, India
 
